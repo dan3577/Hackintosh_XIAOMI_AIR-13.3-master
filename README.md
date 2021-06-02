@@ -39,4 +39,5 @@
 
 关注微信公众号：科技世家，留言：EFI，或扫描下方二维码即可获取
 
-[image](https://user-images.githubusercontent.com/52194615/120453215-6aa36980-c3c5-11eb-8eb7-55b31a18844c.png)
+
+![qrcode_for_gh_d4b20f722ada_430](https://user-images.githubusercontent.com/52194615/120454565-9410c500-c3c6-11eb-8c33-50e0bce56ff7.jpg)
